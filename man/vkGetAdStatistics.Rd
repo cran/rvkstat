@@ -34,6 +34,7 @@ vkGetAdStatistics(account_id = NULL, ids_type = "office", ids = NULL,
 \item{13. video_views_full}{(if ids_type is ad) - views of the whole video (for video ads).}
 \item{14. video_clicks_site}{(if ids_type is equal to ad) - transitions to the advertiser’s website from video ads (for video ads).}
 \item{15. join_rate}{(if ids_type is ad or campaign) - group membership, event, subscriptions to a public page or application settings (only if the ad contains a direct link to the corresponding VK page).}
+\item{16. lead_form_sends}{ount of sended lead forms from your ads.}
 }
 \author{
 Alexey Seleznev

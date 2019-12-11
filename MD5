@@ -1,6 +1,6 @@
-6779dc963304b80b91411adac8a2c4f5 *DESCRIPTION
+6301ed630128637a41438eb74d64e80e *DESCRIPTION
 1bda5c15b56512e60433149be34dd1d5 *NAMESPACE
-e502424454e1c76071d1088f733e2712 *NEWS.md
+e78ce7094c5663493a710d791d8f7e26 *NEWS.md
 48f71f31b2b8bdb7637b757c3de5fa21 *R/api_version_checker.R
 d376a31c42736f65de64654bcf7fedac *R/sysdata.rda
 4009804deaa096c4c7e90e3fbf1aba64 *R/vkAuth.R
@@ -14,7 +14,7 @@ b5cb04948d7dbb70600cfe9eb1a150a8 *R/vkGetAdClients.R
 31b351bbb454f06834b4cc77428e0a68 *R/vkGetAdGenderAgeStats.R
 90be9462f79b9750ae90fa24efd42482 *R/vkGetAdGenderStats.R
 546146a1754729276ff9968152096b54 *R/vkGetAdPostsReach.R
-e3a4250bdb09df5355860d51176625c5 *R/vkGetAdStatistics.R
+1aeeca08f70462486a9d9abf58fc38ee *R/vkGetAdStatistics.R
 213ac437d6acec2b0d82e625a6c98562 *R/vkGetAds.R
 5ef7c596b307995281a484a9e412dd12 *R/vkGetAdsLayout.R
 a7144cb09660598546481a7c7b2deb76 *R/vkGetDbCities.R
@@ -35,7 +35,7 @@ ef6a800efc854694c53ce325901cd79c *R/vkGetUserFriends.R
 99a9877972d16e35fd018b524c2a611c *R/vkGetUserWall.R
 0641972b5ec261ae3132f035538f224f *R/zzz.R
 45407266d7b16d047f33b4b15b459359 *README.md
-d4cfa7286a5416bc73e90e056810f4b3 *build/partial.rdb
+7283e7042207c08014ddb8111201387d *build/partial.rdb
 08f9f0b86202b8a5b5881542dad53da7 *inst/logo/rvkstat.png
 c69f618d3ffa2fa6ef55901c224850a1 *man/rvkstat-package.Rd
 dfd86d5a342a447d989b3651d3458cd3 *man/vkAuth.Rd
@@ -49,7 +49,7 @@ ef921b662a86b5013b83edc33a0d1978 *man/vkGetAdCategories.Rd
 02318cf52ee7e9b4234848fa29af4763 *man/vkGetAdGenderAgeStats.Rd
 797d9bb11b5bad039699bb5afc0e8013 *man/vkGetAdGenderStats.Rd
 2a4261cb533312c0ce1f68124c65dee0 *man/vkGetAdPostsReach.Rd
-5d0109f2d5389aca0a5d33a809d3de33 *man/vkGetAdStatistics.Rd
+4623e7134ce6b4cb4ae4d5e6a67c82f4 *man/vkGetAdStatistics.Rd
 5b40cf15c9fa5159dd83f797bacb7d35 *man/vkGetAds.Rd
 ca9b6627f6d568b52c2151dde16e15a2 *man/vkGetAdsLayout.Rd
 3915d4e8eecb75c36612539c40b1ec29 *man/vkGetDbCities.Rd
