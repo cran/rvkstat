@@ -1,21 +1,22 @@
 Package: rvkstat
 Type: Package
-Title: Interface to API 'vk.com'
-Version: 2.6.3
-Date: 2019-12-11
+Title: R Interface to API 'vk.com'
+Version: 3.0.0
+Date: 2021-01-14
 Author: Alexey Seleznev
 Maintainer: Alexey Seleznev <selesnow@gmail.com>
 Description: Load data from vk.com api about your communiti users and views,
-    ads performance, post on user wall and etc. For more detail see 
-    <https://vk.com/dev/first_guide>.	
+    ads performance, post on user wall and etc.	For more information 
+    see API Documentation <https://vk.com/dev/first_guide>.
 License: GPL-2
 Depends: R (>= 3.5.0)
-Imports: RCurl, jsonlite, httr, tidyr
+Imports: dplyr (>= 1.0.0), tidyr (>= 1.0.0), jsonlite, httr, stringr,
+        lgr
 Language: ru
 Encoding: UTF-8
 BugReports: https://github.com/selesnow/rvkstat/issues
-URL: http://selesnow.github.io/rvkstat
+URL: https://selesnow.github.io/rvkstat/
 NeedsCompilation: no
-Packaged: 2019-12-11 10:29:33 UTC; Alsey
+Packaged: 2021-01-15 07:11:07 UTC; Alsey
 Repository: CRAN
-Date/Publication: 2019-12-11 10:50:02 UTC
+Date/Publication: 2021-01-15 09:40:05 UTC
