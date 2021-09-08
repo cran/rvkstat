@@ -36,7 +36,7 @@ export(vkSetTokenPath)
 export(vkSetThreshold)
 
 # import from other package function
-importFrom(httr,GET, stop_for_status, content)
+importFrom(httr, GET, stop_for_status, content)
 importFrom(jsonlite,fromJSON, toJSON)
 importFrom(tidyr, separate, unnest_longer, unnest_wider, tibble, replace_na)
 importFrom(utils, browseURL, head, setTxtProgressBar, txtProgressBar)

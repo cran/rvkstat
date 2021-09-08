@@ -1,6 +1,6 @@
-3722f14ff1a05339cc31226fe6ebdd79 *DESCRIPTION
-a9f500bc27c0ec1d3b5b6c3301c47329 *NAMESPACE
-30d64c4fb56d90e2acb346be1a573171 *NEWS.md
+f881ca1415bd5f5fb55f508131b0619b *DESCRIPTION
+5485e807760eaa0142aa060153f4d4dd *NAMESPACE
+8b376693f1f19218479d27f663c6d200 *NEWS.md
 11a8bfbdce43a8d3951a5f9d4d034a32 *R/sysdata.rda
 f9505ad7639d8cec5fad18d2536d07a9 *R/vkAuth.R
 e60c4888b6afff39c46224f7604933a3 *R/vkCheckLimit.R
@@ -17,7 +17,7 @@ be86b220caace164cfe927446d603d36 *R/vkGetAdClients.R
 4af5446902696f148f494d5898822811 *R/vkGetAdPostsReach.R
 ab54c692991bba1a968e219de405f293 *R/vkGetAdStatistics.R
 8d9849c2ef101f03fd2215405018f8f8 *R/vkGetAds.R
-580a22db8261e9fa63814b9af2484a2c *R/vkGetAdsLayout.R
+f409c9f6b894dccc6bca8bcef90d62d6 *R/vkGetAdsLayout.R
 845e47eed5af56b9e85ab29f50621067 *R/vkGetDbCities.R
 cb3e2956d99dfb8032bb3a02daef48fd *R/vkGetDbCountries.R
 5c09b9503d0875bb77bd94ce335f0b30 *R/vkGetDbRegions.R
@@ -34,9 +34,9 @@ ee8eb6f155c9049292f4fe04cb0f2bd8 *R/vkGetToken.R
 922776815b7694b319e5897135bdb1c4 *R/vkGetUserGroups.R
 9e7442ffc981d22d54a941a577bb6e0f *R/vkGetUserWall.R
 abaa15bc3c8a5217d960f4443fd1d0f1 *R/vkSetters.R
-0692633ab2c313e6f6d4c2f0593fb5e1 *R/zzz.R
+4172fb5f7038d0911f9fe82826c58035 *R/zzz.R
 a28bc828573227b024baccc31dfbea6c *README.md
-9952d49166308150083b6c7dc5708a5a *build/partial.rdb
+3b1bca71262515f1dd1739723756d1e5 *build/partial.rdb
 c69f618d3ffa2fa6ef55901c224850a1 *man/rvkstat-package.Rd
 57ca2bc11a613b8099f2ed2445ee4b72 *man/vkAuth.Rd
 d6881340cf0c5879c1fc4aa6e538a5a2 *man/vkGetAdAccounts.Rd
