@@ -68,7 +68,7 @@ vkAuth <- function(
     saveRDS(object = accessCredentilas, 
             file   = access_path)
     
-    lg$info("Token saved in %s", access_path)
+    lg$info(str_interp("Token saved in %s", access_path))
     
     }
   }

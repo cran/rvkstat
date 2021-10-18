@@ -25,18 +25,17 @@
 Пакет rvkstat может быть установлен непосредственно из CRAN или репозитория Github с помощью приведённого ниже программного кода.
 
 ### Установка с CRAN
-```
-if(!"devtools" %in% installed.packages()[,1]){install.packages("devtools")}
+```r
 install.packages('rvkstat')
 ```
 ### Установка с Github
 ```r
 if(!"devtools" %in% installed.packages()[,1]){install.packages("devtools")}
-devtools::install_github('selesnow/rvkstat', subdir = "en")
+devtools::install_github('selesnow/rvkstat')
 ```
 
 ### Видео уроки
-У пакета `rvkstat` есть официальный плейлист на YouTube, который доступен по [ссылке](https://www.youtube.com/watch?v=49-HTLOPSnU&list=PLD2LDq8edf4pQcy0zMmkTlk-o_Z6nRm5N).
+У пакета `rvkstat` есть свой официальный [плейлист](https://www.youtube.com/watch?v=49-HTLOPSnU&list=PLD2LDq8edf4pQcy0zMmkTlk-o_Z6nRm5N) с урока на YouTube.
 
 ### Ссылки
 1. [Документация по работе с пакетом rvkstat](https://selesnow.github.io/rvkstat/).
